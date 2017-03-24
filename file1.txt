@@ -1,5 +1,17 @@
+<<<<<<< Updated upstream
 uuuuuuu
 f
 f
 f
 f
+=======
+fdgvf
+ftdg
+f
+
+
+fr
+f
+f
+
+>>>>>>> Stashed changes
